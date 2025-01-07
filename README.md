@@ -8,7 +8,7 @@
 - Spring Security.
 - Spring Data JPA
 - Maven
-- JSP
+- JSP.
 - MySQL
 ## Database
 Here,we used Mysql DB 
