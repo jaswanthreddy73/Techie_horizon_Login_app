@@ -4,7 +4,7 @@
 - MySQL 5.6 or later.
 
 ## Technologies 
-- Spring MVC
+- Spring MVC.
 - Spring Security.
 - Spring Data JPA
 - Maven
